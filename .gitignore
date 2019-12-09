@@ -3,3 +3,6 @@ out/production/LeetCode/*.class
 src/Main.java
 .DS_Store
 .gitignore.swp
+.idea/
+compilation/
+lib/
